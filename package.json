@@ -12,10 +12,13 @@
   },
   "keywords": [
     "twitter",
-    "unicode",
-    ""
+    "unicode"
   ],
   "author": "Mark Macdonald",
   "license": "Eclipse Distribution License",
-  "gitHead": "4d0aae9e6abf3e0f20e3085638da02d6433dfd5d"
+  "gitHead": "4d0aae9e6abf3e0f20e3085638da02d6433dfd5d",
+  "dependencies": {
+    "twit": "~1.1.11",
+    "unicode": "~0.4.9"
+  }
 }
