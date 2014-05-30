@@ -10,7 +10,7 @@ Installation
 4. Create a [```conf/api.json```](#confapijson) file containing your API key information.
 5. Launch unicrud: ```node lib/cli.js```
 
-It will send an initial tweet, and then another every 2 hours.
+It will send an initial tweet, and then another every 16 hours.
 
 conf/api.json
 ----------------------------
